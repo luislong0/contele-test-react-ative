@@ -78,7 +78,6 @@ yarn global add expo-cli
 
 Para rodar o projeto, você precisará do Node.js e do Expo CLI instalados. Clone o repositório e instale as dependências:
 
-```sh
 # Clone o repositório
 git clone git@github.com:luislong0/contele-test-react-ative.git
 cd projeto
@@ -103,6 +102,7 @@ npm run test
 
 # Executar testes em modo de observação
 npm run test:watch
+```
 
 ## Rotas/Telas
 
